@@ -1,4 +1,19 @@
-
+/***
+ * Grading Comments:
+ *  Pretty good job.
+ *  You definitely got the concept of reducing
+ *  code by nesting methods.
+ *  Compiles/runs: 15/15
+ *  Desired output: 4/6  Some typos, 'sallowed' 'perhapse', spaces
+ *     It would have been nice to put newlines between the verses.
+ *  Efficiency: 1/2 - The nesting is nice, but you could have done more.
+ *   You ended up typing:
+ *    "There was an old lady who swallowed a" 
+ *   a bunch of times below, and even introduced a few typos (am old lady)
+ *   that wouldn't have happened if you wrote a single method.   A great
+ *   example of how duplicating code can introduce bugs.
+ *   Good job overall.  22/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
